@@ -2,7 +2,7 @@
 
 ---
 mayakuhns@gmail.com  
-(425)260-7780  
+(425) 260-7780  
   
 ---
 
@@ -10,16 +10,16 @@ mayakuhns@gmail.com
 
 **National Bureau of Asian Research**, *Publications Intern*  
 *June 2015 - September 2015*  
-Formatted, proofread, and edited various documents for numerous publications.  
-Researched various topics for possible future publication.  
-Organized and implemented the distribution of Asia Policy 20, as well as maintained the shipments of previous publications.  
-Received and tracked payments in Quickbooks.  
+- Formatted, proofread, and edited various documents for numerous publications.  
+- Researched various topics for possible future publication.  
+- Organized and implemented the distribution of Asia Policy 20, as well as maintained the shipments of previous publications.  
+- Received and tracked payments in Quickbooks.  
 
 **North Korea Leadership Watch**, *Researcher/Web Admin*  
 *January 2015 - June 2015*  
-Completed Korean Language research, and edited various articles for clarity on North Korea Leadership Watch as well as 38th North.  
-Organized and managed the restructuring of the Leadership Watch website and menus.  
-Answered various journalist queries for information both from and about the site.  
+- Completed Korean Language research, and edited various articles for clarity on North Korea Leadership Watch as well as 38th North.  
+- Organized and managed the restructuring of the Leadership Watch website and menus.  
+- Answered various journalist queries for information both from and about the site.  
 
 ---
 ##Education  
@@ -52,7 +52,7 @@ Quickbooks
 
 **Manual Writing** — *Distribution Manual*  
 Wrote, edited, and created graphics for distribution of future versions of Asia Policy.  
-**Subtitles** - *Salesgirls on the Train*  
+**Subtitles** — *Salesgirls on the Train*  
 Worked on timing, editing, and translating subtitles for the North Korean Movie Salesgirls on the Train using Aegisub software.  
 
 ---
