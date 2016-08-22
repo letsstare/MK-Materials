@@ -2,7 +2,7 @@
 
 ---
 mayakuhns@gmail.com  
-(425)260-7780  
+(425) 260-7780  
   
 ---
 
@@ -21,6 +21,10 @@ Completed Korean Language research, and edited various articles for clarity on N
 Organized and managed the restructuring of the Leadership Watch website and menus.  
 Answered various journalist queries for information both from and about the site.  
 
+**Additional Experience**  
+Assistant Manager (Retail) — *September 2015 — May 2016*  
+Cashier (Retail & Food Services) — *Roughly 4 Years of Combined Experience*  
+
 ---
 ##Education  
 
@@ -31,6 +35,10 @@ Graduated with a Master's of Art of International Studies in Korea Studies, with
 **The Evergreen State College**, *Olympia* — *B.A.*  
 *September 2011 - June 2014*  
 Received a Bachelor of Arts with an emphasis in Asian Studies & Linguistics.  
+
+**Yonsei University**, *Seoul* — *Study Abroad*  
+*Summer 2013*  
+Focused on classes related to North Korea and Political Science.  
 
 ---
 ##Languages
