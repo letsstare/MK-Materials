@@ -17,6 +17,7 @@ want to be role model for girls, be invloved with Ada whether through panels or 
 
 ---
 ###Tell us about a time you made a mistake that you learned a lot from. If you encountered the situation again, what would you do differently?  
-Not signing up for computer class in High school  
+Like any person I've made my fair share of mistakes in my life, however, one of the things that was ingrained in me since I was younger was that no matter what kind of mistake you make you have to at least learn something from it so that you at least won't make the same mistake twice, and trying to learn from my mistakes has let me grow a lot as a person and learn to be more self aware.  
+However, the one mistake that seems most applicable comes from my high school days. I have a very non-traditional educational background, I've been to private, public, charter, homeschool, and in high school things went even further when my father's job got transfered to India. When I was touring the school that I ended up attending, we learned that I could choose to take either Business or Computer class. I was leaning towards Computers until we passed the class room and I remember seeing only one other girl in a class of about 20 students. I ended up signing up Business because I was too self-consicous to be such an extreme minority, as well as coming in the middle of the year. That experience is something that I regreted almost immeditly, not only did I learn next to nothing new in Business class, but the computer class got to do a lot of fun things and ended having a team in an Indian national robotics competition.   
 
 ---
