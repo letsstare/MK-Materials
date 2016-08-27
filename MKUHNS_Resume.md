@@ -12,6 +12,7 @@ mayakuhns@gmail.com
 *June 2015 - September 2015*  
 Formatted, proofread, and edited various documents for numerous publications.  
 Researched various topics for possible future publication.  
+Maintained informational spreadsheets on world events.  
 Organized and implemented the distribution of Asia Policy 20, as well as maintained the shipments of previous publications.  
 Received and tracked payments in Quickbooks.  
 
