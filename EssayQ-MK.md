@@ -12,12 +12,12 @@ I looked into various programs where I could learn coding, including Ada, howeve
 coding software, potentially developing apps or websites for fun on the side, if I decide to do more corporate coding I would be interested in leading teams in the long term future.  
 
 I could see myself doing a lot of different thing in the coding world. I'm primarily interested in being apart of a team that's working on code. I could see myself doing either front end or back end work, but I'm leaning 60/40 towards front end. I think no matter what kind of code I worked on for my career I would dabble in app development and website design on the side, and depending on opportunity and circumstance that could be what I ended up doing full time.  
-I think if I ended up in a more traditional corporate atomesphere I would be interested in eventually becoming a team lead.
+I think if I ended up in a more traditional corporate tech atomesphere I would be interested in working in team management, and working within the current infustructure to encourage companies to emphasize diversity, inculsity, and awareness.
 
 ---
 ###After reading Ada's Vision, Mission and Inclusivity Statement, how will you contribute to Ada's vision for an inclusive and diverse community?  
 want to be role model for girls, be invloved with Ada whether through panels or just helping in anyway I can. The community aspect of Ada is one of the things that excites me the most about the program.  
-Additionally one of the area that I'm interested in potentially working is in the video game industry, backend. While the numbers of women working in the overall software industry is extremely low the statistics for women in the video game industry are even worse and thats a glass ceiling that I would gladly break. Because I think it goes without saying that young women and girls should be able to access the fun the video games have without being insulted and verbally assulted by other players just because they're women and using a headset. 
+
 
 ---
 ###Tell us about a time you made a mistake that you learned a lot from. If you encountered the situation again, what would you do differently?  
