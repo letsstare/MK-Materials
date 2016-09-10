@@ -1,1 +1,0 @@
-#Ada Application Essay Questions
