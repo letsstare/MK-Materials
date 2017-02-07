@@ -8,6 +8,27 @@ mayakuhns@gmail.com
 
 ##Experience
 
+**Dragados USA (via Beacon Hill Staffing)**, *Office Manager*  
+*January 2017 - Present*  
+Maintained supplies and equipment.  
+Organize and book employee travel.  
+Process and prepare monthly credit card statement audit.  
+Organize and distribute daily mail as well as forwarding mail to project offices.  
+
+**Unico Properties (via Beacon Hill Staffing)**, *Assistant Office Coordinator*  
+*December 2016 - January 2017 (Temporary Contract)*  
+Answered reception telephones and greeting visitors.  
+Wrote and distributed tenant memos and monthly newsletters.  
+Maintained Tenant & Vendor files with updated documentation, correspondences, and insurance certificates.  
+Organized and distributed daily mail.  
+Monitored and managed work order progress through Building Engines, as well as coordinating with building technicians.  
+
+**Office Team (Moxie Software & Microsoft CBRE)**, *Office Assistant*  
+*November 2016 (Temporary Contracts)*  
+Answered customer calls and transferred to the correct extensions.  
+Distributed and organized daily office mail.  
+Organized personnel and international legal documentation.  
+
 **National Bureau of Asian Research**, *Publications Intern*  
 *June 2015 - September 2015*  
 Formatted, proofread, and edited various documents for numerous publications.  
@@ -61,7 +82,7 @@ Quickbooks
 
 **Manual Writing** — *Distribution Manual*  
 Wrote, edited, and created graphics for distribution of future versions of Asia Policy.  
-**Subtitles** - *Salesgirls on the Train*  
+**Subtitles** — *Salesgirls on the Train*  
 Worked on timing, editing, and translating subtitles for the North Korean Movie Salesgirls on the Train using Aegisub software.  
 
 ---
