@@ -1,4 +1,4 @@
-#Maya Kuhns
+# Maya Kuhns
 
 ---
 mayakuhns@gmail.com  
@@ -6,7 +6,7 @@ mayakuhns@gmail.com
   
 ---
 
-##Experience
+## Experience
 
 **Dragados USA (via Beacon Hill Staffing)**, *Office Manager*  
 *January 2017 - Present*  
@@ -48,7 +48,7 @@ Assistant Manager (Retail) — *September 2015 — May 2016*
 Cashier (Retail & Food Services) — *Roughly 4 Years of Combined Experience*  
 
 ---
-##Education  
+## Education  
 
 **University of Washington**, *Seattle* — *M.A.I.S.*  
 *September 2014 - June 2016*  
@@ -63,13 +63,13 @@ Received a Bachelor of Arts with an emphasis in Asian Studies & Linguistics.
 Focused on classes related to North Korea and Political Science.  
 
 ---
-##Languages
+## Languages
 **English** — *Native*  
 **Korean** —  *Fluent*  
 **Spanish** — *Intermediate*  
 
 ---
-##Skills  
+## Skills  
 Microsoft Office  
 Technical Writing & Editing  
 Written & Oral Communication  
@@ -78,7 +78,7 @@ Research
 Quickbooks  
 
 ---
-##Professional Projects  
+## Professional Projects  
 
 **Manual Writing** — *Distribution Manual*  
 Wrote, edited, and created graphics for distribution of future versions of Asia Policy.  
@@ -86,8 +86,8 @@ Wrote, edited, and created graphics for distribution of future versions of Asia 
 Worked on timing, editing, and translating subtitles for the North Korean Movie Salesgirls on the Train using Aegisub software.  
 
 ---
-##Awards  
+## Awards  
 *Ewha Woman's University Alumnae Association Scholarship*  
 
 ---
-####References Available Upon Request  
+#### References Available Upon Request  
