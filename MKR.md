@@ -8,8 +8,18 @@ mayakuhns@gmail.com
 
 ## Experience
 
+**Valve Software (via Parker Staffing)**, *Office Manager*  
+*February 2018 - Present*  
+Coordinate travel for employees and interview candidates.  
+Ship packages and pallets for various employees and teams.  
+Monitor and order stock of various supplies as well as special orders.  
+Perform intial repairs and building maintenece, and coordinating external technicians as needed.  
+Act as point of contact for questions regarding all frindge benefits, such as Laundry, Personal Training, Parking, ORCA.  
+Maintain security keycard system preforming updates as needed. 
+
+
 **Dragados USA (via Beacon Hill Staffing)**, *Office Manager*  
-*January 2017 - Present*  
+*January 2017 - November 2018*  
 Organized and distributed Dragados promotional items for recruiting events around the country.  
 Act as the first point of contact for all visitors and vendors, as well as maintaining the reception appearance and organization.  
 Ship documentation and various items to project offices across the country. Coordinating with other offices to ensure proper delivery.  
